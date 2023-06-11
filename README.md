@@ -1,2 +1,2 @@
-# ppmd-rembang.github.io
+# ppmd-rembang
 a Website for PPM Ad-Da'wa Rembang
